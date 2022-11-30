@@ -1,2 +1,2 @@
 #!/bin/bash
-ln _Is_ -t /bin/Is
+ln -s /bin/Is _Is_
