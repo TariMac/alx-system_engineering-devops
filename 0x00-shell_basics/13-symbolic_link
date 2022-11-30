@@ -1,0 +1,2 @@
+#!/bin/bash
+ln _Is_ -t /bin/Is
